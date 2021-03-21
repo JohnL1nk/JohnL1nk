@@ -1,16 +1,16 @@
 ### Hi there 👋
+## I'm João Tannus
+- I'm from :brazil:.
+- I'm currently Learning Python and games development.
 
-<!--
-**JohnL1nk/JohnL1nk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Connect with me:
+<a href="https://www.linkedin.com/in/jo%C3%A3o-tannus-10801a20a/" target="_blank">
+<img align="center" alt="João-Linkedin" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg"
+style="max-width:100%;">
+</a>
 
-Here are some ideas to get you started:
+## My Skills:
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width:100%;"></img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnL1nk&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnL1nk&layout=compact)](https://github.com/JohnL1nk/github-readme-stats)
